@@ -55,16 +55,16 @@
 
 ## 🚀 Live Ecosystems & Products
 
-Aquí puedes ver algunas de las plataformas SaaS y ecosistemas tecnológicos que he diseñado y desplegado:
+Here are some of the SaaS platforms and technological ecosystems I have designed, engineered, and deployed:
 
-*   🌐 **[Radar Médico](https://radarmedico.com/)** — SaaS para la gestión clínica digital, interconexión médico-paciente y manejo automatizado de prescripciones.
-*   🌐 **[Alpha ERP / AlphaCotiza](https://alphacotiza.com/)** — Sistema inteligente de cotizaciones y gestión modular diseñado para optimizar flujos comerciales.
+*   🌐 **[Radar Médico](https://radarmedico.com/)** — A comprehensive SaaS platform for digital clinical management, medical-passenger network connectivity, and automated prescription handling.
+*   🌐 **[Alpha ERP / AlphaCotiza](https://alphacotiza.com/)** — An intelligent quotation and modular management ecosystem engineered to streamline and optimize commercial workflows.
 
 ---
 
 ## 📊 GitHub Metrics & Activity
 
-> 💡 *Nota: Si las métricas muestran un error de carga, se solucionará automáticamente en unos minutos en cuanto tu perfil registre sus primeros commits públicos.*
+> 💡 *Note: If the metrics show a loading error, it will automatically resolve within a few minutes as soon as your profile logs its first public commits.*
 
 <p align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Toberal98&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Douglas Stats" />
