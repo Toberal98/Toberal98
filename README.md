@@ -68,9 +68,10 @@ I work across the entire product lifecycle, utilizing modern frameworks and ente
 
 ### 🤝 Connect with Me
 
-- 💼 **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile) *(Reemplaza con tu enlace real)*
-- 🌐 **Portfolio/Website:** [yourwebsite.com](https://yourwebsite.com) *(Reemplaza con tu enlace real)*
-- ✉️ **Email:** your.email@example.com *(Reemplaza con tu correo)*
+- 💼 **LinkedIn:** [Douglas Menjivar]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/alberto-menjivar-2b2b49205/?locale=en_US))
+- 🌐 **Portfolio/Website:** [Radar Medico](https://radarmedico.com/)
+- 🌐 **Portfolio/Website:** [Alpha ERP](https://alphacotiza.com/)
+- ✉️ **Email:** douglazalberto78@gmail.com
 
 <p align="center">
   <sub>Built with 💪 and continuous consistency. Updated: 2026.</sub>
